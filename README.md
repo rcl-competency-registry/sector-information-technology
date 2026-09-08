@@ -5,6 +5,7 @@ Welcome to the Information Technology competency registry. This central reposito
 To view, add, or edit specific job competencies, click on the appropriate sub-sector registry below. 
 
 ⬅️ [Back to the Central Job Competency Registry](https://github.com/rcl-competency-registry)
+
 ---
 
 ### 📂 Sub-Sector Registries
