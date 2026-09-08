@@ -1,6 +1,6 @@
 # 💻 Sector: Information Technology
 
-Welcome to the Information Technology competency registry. This central repository outlines the overarching IT framework. 
+Welcome to the Information Technology competency registry. This central repository outlines the overarching IT job sompetencies. 
 
 To view, add, or edit specific job competencies, click on the appropriate sub-sector registry below. 
 
