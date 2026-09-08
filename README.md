@@ -1,7 +1,14 @@
 # 💻 Sector: Information Technology
 
-Welcome to the IT sector competency registry. Members of specific sub-sectors have write permissions to their individual repositories below:
+Welcome to the Information Technology competency registry. This central repository outlines the overarching IT framework. 
 
-### 📁 Sub-Sectors
-* 🚀 **[Software Development Registry](https://github.com)** ➔ *Managed by the Software Dev Team*
-* 🔒 **[Cybersecurity Registry](https://github.com)** ➔ *Managed by the Security Team*
+To view, add, or edit specific job competencies, click on the appropriate sub-sector registry below. 
+
+---
+
+### 📂 Sub-Sector Registries
+
+* 🚀 **[Software Development Sub-Sector](https://github.com)**
+  * *Maintained by:* Software Development Team
+  * *Contents:* Software programming competencies.
+---
