@@ -8,7 +8,7 @@ To view, add, or edit specific job competencies, click on the appropriate sub-se
 
 ### 📂 Sub-Sector Registries
 
-* 🚀 **[Software Development Sub-Sector]([https://github.com](https://github.com/rcl-competency-registry/subsector-software-development)**
+* 🚀 **[Software Development Sub-Sector]([https://github.com](https://github.com/rcl-competency-registry/subsector-software-development])**
   * *Maintained by:* Software Development Team
   * *Contents:* Software programming competencies.
 ---
